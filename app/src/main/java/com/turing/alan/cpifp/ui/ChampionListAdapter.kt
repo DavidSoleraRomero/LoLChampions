@@ -5,15 +5,17 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
+import coil.load
 import com.turing.alan.cpifp.data.Champion
 import com.turing.alan.cpifp.databinding.ChampionViewBinding
 
-class ChampionListAdapter: ListAdapter<Champion, ChampionListAdapter.ChampionViewHolder>(ChampionComparer) {
+class ChampionListAdapter(): ListAdapter<Champion, ChampionListAdapter.ChampionViewHolder>(ChampionComparer) {
 
     class ChampionViewHolder(private val binding: ChampionViewBinding): RecyclerView.ViewHolder(binding.root) {
 
         // Asocia las propiedades del campeón a las propiedades de las vistas
         fun bind(champion: Champion) {
+            binding.championImage.load(champion.imageUrl)
             binding.championName.text = champion.name
             binding.championTitle.text = champion.title
             binding.championLore.text = champion.lore

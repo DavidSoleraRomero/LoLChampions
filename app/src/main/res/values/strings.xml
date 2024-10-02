@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LOLChampions</string>
+    <string name="champion_image_text">A League of Legends champion</string>
 </resources>
