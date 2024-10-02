@@ -32,6 +32,6 @@ Este proyecto no tiene una licencia específica.
 
 ## Autor 👻
 
-David   <img src="https://media.giphy.com/media/3oKIP73vEZmJjFNXtC/giphy.gif" width="200" height="200" />
+<p style="font-size: 300px;">David</p>   <img src="https://media.giphy.com/media/3oKIP73vEZmJjFNXtC/giphy.gif" width="200" height="200" />
 
 
