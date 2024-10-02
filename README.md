@@ -33,6 +33,4 @@ Este proyecto no tiene una licencia específica.
 ## Autor 👻
 
 David Solera Romero<br>
-<div class="tenor-gif-embed" data-postid="17060497" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/amumu-sad-crying-lol-league-of-legends-gif-17060497">Amumu Sad Sticker</a>from <a href="https://tenor.com/search/amumu-stickers">Amumu Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
+![Amumu Sad](https://media.tenor.com/images/f87bb3b99a47b8ca2e0d9eeeb4368bb0/tenor.gif)
