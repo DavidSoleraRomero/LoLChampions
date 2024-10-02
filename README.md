@@ -1,4 +1,5 @@
 # LoLChampions
+![League of Legends GIF](https://media.giphy.com/media/3oKIP73vEZmJjFNXtC/giphy.gif)
 
 ## Descripción 📖
 
