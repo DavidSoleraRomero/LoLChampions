@@ -1,6 +1,8 @@
 # LoLChampions
 <p>
     <img src="https://media.giphy.com/media/3oKIP73vEZmJjFNXtC/giphy.gif" width="150" height="150" />
+    <img src="https://media.giphy.com/media/3oKIP73vEZmJjFNXtC/giphy.gif" width="150" height="150" />
+    <img src="https://media.giphy.com/media/3oKIP73vEZmJjFNXtC/giphy.gif" width="150" height="150" />
 </p>
 
 
@@ -32,5 +34,4 @@ Este proyecto no tiene una licencia específica.
 
 ## Autor 👻
 
-David Solera Romero<br>
-<img src="https://media.giphy.com/media/U8bGEiFpkPQ9doCkaw/giphy.gif" width="205" height="160" />
+David Solera Romero
