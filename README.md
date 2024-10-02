@@ -32,6 +32,6 @@ Este proyecto no tiene una licencia específica.
 
 ## Autor 👻
 
-David ![GIF de League of Legends](https://media.giphy.com/media/3oKIP73vEZmJjFNXtC/giphy.gif)
+David   <img src="https://media.giphy.com/media/3oKIP73vEZmJjFNXtC/giphy.gif" width="200" height="200" />
 
 
