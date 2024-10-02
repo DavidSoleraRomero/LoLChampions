@@ -1,5 +1,8 @@
 # LoLChampions
-![League of Legends GIF](https://media.giphy.com/media/3oKIP73vEZmJjFNXtC/giphy.gif)
+<p align="center">
+    <img src="https://media.giphy.com/media/3oKIP73vEZmJjFNXtC/giphy.gif" width="200" height="200" />
+</p>
+
 
 ## Descripción 📖
 
@@ -10,7 +13,7 @@ Utiliza **RecyclerView** para una visualización eficiente de los personajes y o
 
 - Visualización de 40 campeones destacados.
 - Uso de **RecyclerView** para una navegación fluida.
-- Integración con la API de **Riot Games** para obtener imágenes de los campeones actualizadas.
+- Llamadas a la API de **Riot Games** para obtener imágenes usando la librería Coil
 
 ## Tecnologías utilizadas 🌐
 
