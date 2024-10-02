@@ -33,7 +33,4 @@ Este proyecto no tiene una licencia específica.
 ## Autor 👻
 
 David Solera Romero<br>
-![League of Legends GIF](https://media.giphy.com/media/U8bGEiFpkPQ9doCkaw/giphy.gif)
-
-
-
+<img src="https://media.giphy.com/media/U8bGEiFpkPQ9doCkaw/giphy.gif" width="150" height="150" />
