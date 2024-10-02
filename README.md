@@ -31,5 +31,8 @@ Este proyecto es entregado como parte de un curso y no busca colaboración exter
 Este proyecto no tiene una licencia específica.
 
 ## Autor 👻
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <p style="margin: 0;">David</p>
+    <img src="https://media.giphy.com/media/3oKIP73vEZmJjFNXtC/giphy.gif" width="100" height="100" style="margin-left: 10px;" />
+</div>
 
-**David Solera Romero**
