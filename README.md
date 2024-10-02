@@ -6,7 +6,8 @@
 
 ## Descripción 📖
 
-<p>La aplicación **LOLChampions** está diseñada para mostrarte los 40 personajes más destacados de **League of Legends**.</p> <br>
+La aplicación **LOLChampions** está diseñada para mostrarte los 40 personajes más destacados de **League of Legends**. <br>
+
 Utiliza **RecyclerView** para una visualización eficiente de los personajes del videojuego (reciclando vistas cuando lo vea necesario) y, además, se obtienen las imágenes de los campeones directamente de la API de **Riot Games**, gracias a la librería **Coil** de Kotlin.
 
 ## Características 📕
