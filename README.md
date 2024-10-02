@@ -33,4 +33,4 @@ Este proyecto no tiene una licencia específica.
 ## Autor 👻
 
 David Solera Romero<br>
-<img src="https://media.giphy.com/media/U8bGEiFpkPQ9doCkaw/giphy.gif" width="200" height="150" />
+<img src="https://media.giphy.com/media/U8bGEiFpkPQ9doCkaw/giphy.gif" width="205" height="160" />
