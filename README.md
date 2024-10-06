@@ -8,7 +8,7 @@
 
 La aplicación **LOLChampions** está diseñada para mostrarte los 40 personajes más destacados de **League of Legends**. <br>
 
-Utiliza **RecyclerView** para una visualización eficiente de los personajes del videojuego (reciclando vistas cuando lo vea necesario) y, además, se obtienen las imágenes de los campeones directamente de la API de **Riot Games**, gracias a la librería **Coil** de Kotlin.
+Utiliza **RecyclerView** para una visualización eficiente de los personajes del videojuego (reciclando vistas cuando sea necesario) y, además, se obtienen las imágenes de los campeones directamente de la API de **Riot Games**, gracias a la librería **Coil** de Kotlin.
 
 ## Características 📕
 
@@ -21,12 +21,12 @@ Utiliza **RecyclerView** para una visualización eficiente de los personajes del
 - **Kotlin**: Lenguaje de programación principal.
 - **Android Studio**: Plataforma de desarrollo.
 - **RecyclerView**: Para mostrar la lista de campeones.
-- **Riot Games API**: Para obtener imágenes de los campeones.
+- **API de Riot Games**: Para obtener imágenes de los campeones.
 - **Coil**: Para hacer llamadas a la API, que devuelven las imágenes.
 
-## Contribuciones 🆘
+## Objetivo 💡
 
-Este proyecto es entregado como parte de un curso (2º DAM) y no busca colaboración externa.
+Este proyecto es entregado como parte de una tarea 2º DAM para "Programación Multimedia y Dispositivos Móviles".
 
 ## Licencia 👨‍🎓
 
