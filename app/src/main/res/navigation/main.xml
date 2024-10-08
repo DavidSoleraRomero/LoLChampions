@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main.xml"
+    app:startDestination="@id/championListFragment">
+    <fragment
+        android:id="@+id/championListFragment"
+        android:name="com.turing.alan.cpifp.ui.ChampionListFragment"
+        android:label="ChampionListFragment" >
+        <action
+            android:id="@+id/action_championListFragment_to_championDetail"
+            app:destination="@id/championDetail" />
+    </fragment>
+    <fragment
+        android:id="@+id/championDetail"
+        android:name="com.turing.alan.cpifp.ui.ChampionDetailFragment"
+        android:label="fragment_champion_detail"
+        tools:layout="@layout/fragment_champion_detail" >
+        <argument
+            android:name="championId"
+            app:argType="integer" />
+    </fragment>
+</navigation>

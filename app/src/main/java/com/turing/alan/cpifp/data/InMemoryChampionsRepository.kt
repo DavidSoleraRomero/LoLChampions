@@ -2,6 +2,8 @@ package com.turing.alan.cpifp.data
 
 class InMemoryChampionsRepository private constructor(): ChampionsRepository {
 
+
+
     // Función que devuelve la lista de campeones
     override fun getChampions(): List<Champion> {
         return listOf(
@@ -202,7 +204,7 @@ class InMemoryChampionsRepository private constructor(): ChampionsRepository {
                 "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_0.jpg"
             ),
             Champion(
-                6,
+                29,
                 "Teemo",
                 "The Swift Scout",
                 "Undeterred by even the most dangerous and threatening of missions, Teemo scouts the world with boundless enthusiasm and a smile on his face.",
@@ -287,8 +289,9 @@ class InMemoryChampionsRepository private constructor(): ChampionsRepository {
             )
         )
 
-
     }
+
+    override fun readOne(championId: Int): Champion = getChampions().single { it.id == championId }
 
     companion object {
         // Instancia única del repositorio

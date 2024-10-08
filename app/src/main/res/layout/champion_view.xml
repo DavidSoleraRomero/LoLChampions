@@ -5,13 +5,15 @@
     android:padding="10dp"
     android:orientation="vertical"
     xmlns:tools="http://schemas.android.com/tools"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:cardCornerRadius="16dp"
-        android:layout_margin="4dp">
+        android:layout_margin="4dp"
+        style="?attr/materialCardViewElevatedStyle">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -31,8 +33,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textStyle="bold"
-                android:padding="8.5dp"
-                android:textSize="22sp"
+                android:padding="11dp"
+                android:textSize="24sp"
                 tools:text="Ahri"/>
 
             <TextView
@@ -40,17 +42,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textStyle="bold"
-                android:textSize="17sp"
-                android:padding="8.5dp"
+                android:textSize="18sp"
+                android:padding="11dp"
+                android:layout_marginBottom="7.75dp"
                 tools:text="La zorra de nueve colas"/>
-
-            <TextView
-                android:id="@+id/champion_lore"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:padding="8.5dp"
-                android:layout_marginBottom="8.5dp"
-                tools:text="No sé qué y no sé cuántos" />
 
         </LinearLayout>
 

@@ -42,15 +42,8 @@
                 android:textStyle="bold"
                 android:textSize="17sp"
                 android:padding="8.5dp"
-                tools:text="La zorra de nueve colas"/>
-
-            <TextView
-                android:id="@+id/champion_lore"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:padding="8.5dp"
                 android:layout_marginBottom="8.5dp"
-                tools:text="No sé qué y no sé cuántos" />
+                tools:text="La zorra de nueve colas"/>
 
         </LinearLayout>
 
